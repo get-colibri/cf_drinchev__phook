@@ -22,7 +22,7 @@ Mandatory arguments to long options are mandatory for short options too
 You need macOS for this to work.
 
 
-```
+```cpp
 wget https://github.com/drinchev/phook/archive/v0.0.8.tar.gz
 tar -xzf v0.0.8.tar.gz
 cd phook-0.0.8
