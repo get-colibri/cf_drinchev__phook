@@ -2,6 +2,7 @@
 
 Runs a command after a parent process has finished.
 
+
 ```
 Usage: phook [OPTION]...
 Runs a command after a parent process has finished.
@@ -20,6 +21,7 @@ Mandatory arguments to long options are mandatory for short options too
 
 You need macOS for this to work.
 
+
 ```
 wget https://github.com/drinchev/phook/archive/v0.0.8.tar.gz
 tar -xzf v0.0.8.tar.gz
@@ -30,6 +32,7 @@ make install
 Alternative option would be to
 use [TheFox](https://github.com/TheFox)'s [homebrew tap](https://github.com/TheFox/homebrew-brewery) :
 
+
 ```
 brew tap thefox/brewery
 brew install phook
@@ -39,20 +42,19 @@ brew install phook
 
 See [examples](https://github.com/drinchev/phook/tree/master/examples).
 
+&#8203;
+
+&#8203;
+
 ## Contributors
 
 - [@jayrhynas](https://github.com/jayrhynas)
 - [@shishirchawla](https://github.com/shishirchawla)
 - [@martinlau](https://github.com/martinlau)
-
 ---
 
-Credits goes to http://serverfault.com/a/641004/152846
-
+Credits goes to [http://serverfault.com/a/641004/152846](http://serverfault.com/a/641004/152846)
 ---
 
 Copyright (C) 2017 Ivan Drinchev.
-
 This software may be modified and distributed under the terms of the MIT license.
-
-
