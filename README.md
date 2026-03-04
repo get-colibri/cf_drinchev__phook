@@ -42,9 +42,9 @@ brew install phook
 
 See [examples](https://github.com/drinchev/phook/tree/master/examples).
 
-&#8203;
+test
 
-&#8203;
+Foo bar
 
 ## Contributors
 
