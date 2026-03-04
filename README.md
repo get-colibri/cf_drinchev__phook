@@ -1,6 +1,6 @@
 # phook
 
-Runs a command after a parent process has finished.
+**Runs a command after a parent process has finished.**
 
 
 ```
